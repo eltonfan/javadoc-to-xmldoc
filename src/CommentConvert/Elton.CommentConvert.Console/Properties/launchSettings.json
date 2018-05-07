@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Elton.XmlComment.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\GitHub\\nest-dotnet-sdk-public\\src\\Elton.Nest\\\""
+    }
+  }
+}
